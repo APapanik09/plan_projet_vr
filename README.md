@@ -17,5 +17,6 @@ Cri de la créature https://youtu.be/ujHqGBeDjtc?si=1PHlsA_bQE02iskz <br>
 Son de la lanterne https://youtu.be/zLd-0MDtjvQ?si=hXEp2Lbn_U8Cv4_l <br>
 
 ## Une carte de votre environnement virtuel 
+![carte](/assets/plandescene.jpg)
 
 Un schéma de programmation ou d'interactivité
