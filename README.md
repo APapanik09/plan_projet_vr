@@ -20,3 +20,4 @@ Son de la lanterne https://youtu.be/zLd-0MDtjvQ?si=hXEp2Lbn_U8Cv4_l <br>
 ![carte](/assets/plandescene.jpg)
 
 ## Un schéma de programmation ou d'interactivité
+![schema](/assets/schemaprog.jpg)
